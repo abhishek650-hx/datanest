@@ -1,3 +1,6 @@
+## 🚀 Live Demo
+
+[**View DataNest Live →**](https://abhishek650-hx.github.io/datanest/)
 # DataNest
 
 A lightweight Wikipedia-inspired search application built using **HTML, CSS, and JavaScript**. DataNest uses the **Wikipedia API** to search for articles and display relevant information in a clean interface.
